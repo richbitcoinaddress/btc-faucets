@@ -36,7 +36,8 @@ Richest Bitcoin Addresses
 The list of richest Bitcoin addresses.
 
 Rank	Address	Balance
-0 1Myy4QCu9zWESRHrVZBusN6g9bS5G7L5UK   15052000.52002081994
+
+0 1Myy4QCu9zWESRHrVZBusN6g9bS5G7L5UK  15052000.52002081994
 1	34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo	 248597.59220424
 2	3M219KR5vEneNb47ewrPfWyb5jQ2DjxRP6	 196082.40005428
 3	bc1ql49ydapnjafl5t2cp9zqpjwe6pdgmxy98859v2	 140849.98538562
